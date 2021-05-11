@@ -1,5 +1,6 @@
 どういうこと？
 vimがよくわからない...
 I am writing english for git branch practice.
-面倒だ
+Aから追加
+Bから追加
 
