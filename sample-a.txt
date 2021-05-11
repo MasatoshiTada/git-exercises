@@ -1,6 +1,10 @@
 どういうこと？
 vimがよくわからない...
 I am writing english for git branch practice.
+<<<<<<< HEAD
 Aから追加
 Bから追加
+=======
+Aからさらに追加します
+>>>>>>> feature-a
 
