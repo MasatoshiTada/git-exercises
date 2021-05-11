@@ -1,9 +1,4 @@
 どういうこと？
 vimがよくわからない...
-<<<<<<< HEAD
 I am writing english for git branch practice.
-haaaaaaaa
-=======
-dousurebaii?
->>>>>>> topic-change-message
 
