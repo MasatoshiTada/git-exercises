@@ -4,6 +4,9 @@ Git演習
 # 前提条件
 [こちら](prerequisites.md)
 
+# 講義資料
+よこなさんの[Gitはじめの一歩](https://speakerdeck.com/ihcomega56/githazimefalse-bu)を利用します。
+
 # 演習一覧
 - [演習1 個人でのクローン・編集・コミット・プッシュ](ex01-commit-and-push.md)
 - [演習2 ローカルリポジトリでのブランチの利用](ex02-branch.md)
